@@ -1,6 +1,6 @@
 Name:		texlive-songproj
-Version:	64966
-Release:	2
+Version:	66704
+Release:	1
 Summary:	Generate Beamer slideshows with song lyrics
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/songproj
