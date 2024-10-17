@@ -3,7 +3,7 @@ Version:	66704
 Release:	1
 Summary:	Generate Beamer slideshows with song lyrics
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/songproj
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/songproj
 License:	bsd3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/songproj.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/songproj.doc.r%{version}.tar.xz
